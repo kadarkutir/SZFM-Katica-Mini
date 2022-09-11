@@ -4,6 +4,6 @@ Egyszerű számológép.
 
 Résztvevők:
 
--Demeter Benjámin
--Tercza Dávid 
--Kadarkuti Róbert
+- Demeter Benjámin
+- Tercza Dávid 
+- Kadarkuti Róbert
