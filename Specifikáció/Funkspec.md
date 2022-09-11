@@ -50,4 +50,6 @@ Zárójel használata.
 
 ## 8. Képernyő tervek:
 
+![](kepernyoterv.png)
+
 ## 9. Fogalomtár:
