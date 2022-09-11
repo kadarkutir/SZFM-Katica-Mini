@@ -14,6 +14,6 @@
 
 ## 7. Használati esetek:
 
-## 8.Képernyő tervek:
+## 8. Képernyő tervek:
 
 ## 9. Fogalomtár:
