@@ -6,6 +6,10 @@
 
 ## 3. Vágyálom rendszer leírása: 
 
+Java alkalmazás létrehozása, amely könnyen átlátható és egyszerűen használható felületet biztosit a diákok számára, hogy a dolgozatokon kitudják számolni az adott matematikai feladatokat.
+
+ Ennek segítségével csökkentvé a csalásnak a lehetőséget.
+
 ## 4. Követelménylista:
 
 Különböző matematikai operátorok használata:
