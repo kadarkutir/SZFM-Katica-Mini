@@ -12,4 +12,24 @@
 
 ## 6. Követelménylista:
 
+Különböző matematikai operátorok használata:
+
+Kötelező operátorok:
+
+K01 Összeadás
+
+K02 Kivonás
+
+K03 Szorzás
+
+K04 Osztás
+
+Opcionális operátorok:
+
+K05 Négyzetre emelés
+
+K06 Gyökvonás
+
+K07 Zárójelek használata
+
 ## 7.Fogalomszótár:
