@@ -1,4 +1,4 @@
-#Funkspec
+# Funkspec
 
 ## 1. A rendszer céljai és nem céljai:
 
