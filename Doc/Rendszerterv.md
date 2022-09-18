@@ -182,11 +182,13 @@ Beta teszt:
 A tesztet az alkalmazottak végzik.
 
 Tesztelendő operációsrendszerek:
--Windows
 
--Linux
+    - Windows
 
--MacOS
+    - Linux
+
+    - MacOS
+    
 A tesztelés alatt a tesztelő felhasználók visszajelzéseket küldhetnek a fejlesztőknek, probléma/hiba felmerülése esetén. Ha hiba lép fel, a fejlesztők kijavítják a lehető leghamarabb. 
 
 ## 10. Telepítési terv
