@@ -1,5 +1,23 @@
 ## 1. A rendszer célja
 
+Céljai:
+
+A számológép célja különböző matematikai műveletek elvégzése egész számokkal.
+
+Ezek a műveletek lehetnek összeadás, kivonás stb.
+
+Két számmal való műveletek elvégzése.
+
+Nem célja:
+
+Komplexebb matematikai műveletek elvégzése.
+
+Például:
+
+Egyenlet megoldás.
+
+Gyök keresés egyenlet rendszerben.
+
 ## 2. Projektterv
 
 ## 3. Üzleti folyamatok modellje
