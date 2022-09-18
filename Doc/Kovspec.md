@@ -27,6 +27,12 @@ Egészszámok kiszámítása a 4 alap operátorral.
 
 ## 5. Igényelt üzleti folyamatok modellje:
 
+Minden számítógépen elfusson amin van java.
+
+További operátorok hozzáadása.
+
+Tizedes pontos számokkal való számítás.
+
 ## 6. Követelménylista:
 
 0-9-ig számok használata.
