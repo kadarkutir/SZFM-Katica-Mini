@@ -52,11 +52,6 @@ K08 Eredmény kiszámítása
 
 Az adott eredmény kiszámítása.
 
-
-K07 Zárójelek használata
-
-Zárójel használata.
-
 ## 5. Jelenlegi üzleti folyamatok:
 
 ## 6. Igényelt üzleti folyamatok:
