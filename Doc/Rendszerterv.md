@@ -195,3 +195,4 @@ A tesztelés alatt a tesztelő felhasználók visszajelzéseket küldhetnek a fe
 Az adott operációs rendszeren telepítve kell, hogy legyen egy Java fordító, ami képes fordítani a file-t.
 
 ## 12. Karbantartási terv
+Amíg nincs változás a matematika szabályain belül addig nincs szükség karbantartásra.
