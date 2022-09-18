@@ -158,9 +158,7 @@ A GUI részét egy FXML és egy CSS fájl alkotja.
 
 ![](architekturalisterv.png)
 
-## 8. Adatbázis terv
-
-## 9. Implementációs terv
+## 8. Implementációs terv
 
 Az egész alkalmazás az MVC informatikai mintán alapul ami a Modell,View,Controller.
 A Modell összevan kötve a Controller, a Controller pedig a View-val így működik az alkalmazás háttere.
@@ -169,7 +167,7 @@ A Modell és Controller Java nyelven van megírva és így működteti az alkalm
 
 A View vagy GUI a felhasználók által látott felület FXML és CSS-ben írodott.
 
-## 10. Tesztterv
+## 9. Tesztterv
 
 Unit teszt:
 A fejlesztési idő egyik fontosabb részét képzi a unit tesztek írása, mivel fontos, hogy a függvények megfelelően működjenek a pontos műveletek kiszámításához.
@@ -191,8 +189,8 @@ Tesztelendő operációsrendszerek:
 -MacOS
 A tesztelés alatt a tesztelő felhasználók visszajelzéseket küldhetnek a fejlesztőknek, probléma/hiba felmerülése esetén. Ha hiba lép fel, a fejlesztők kijavítják a lehető leghamarabb. 
 
-## 11. Telepítési terv
+## 10. Telepítési terv
 Az adott operációs rendszeren telepítve kell, hogy legyen egy Java fordító, ami képes fordítani a file-t.
 
-## 12. Karbantartási terv
+## 11. Karbantartási terv
 Amíg nincs változás a matematika szabályain belül addig nincs szükség karbantartásra.
