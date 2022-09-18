@@ -22,6 +22,12 @@ Gyök keresés egyenlet rendszerben.
 
 ## 2. Jelenlegi helyzet leírása:
 
+Az oktatásban csak a Windows számológépet lehet használni amivel a diákok tudnak csalni a különböző dolgozatokon.
+
+Ezért mi fejlesztünk egy egszerű számológépet amivel csak az alap operátorok használhatók.
+
+A diákok egszerűen tudják majd használni a tesztek megírásakor.
+
 ## 3. Vágyálom rendszer leírása: 
 
 Java alkalmazás létrehozása, amely könnyen átlátható és egyszerűen használható felületet biztosit a diákok számára, hogy a dolgozatokon kitudják számolni az adott matematikai feladatokat.
