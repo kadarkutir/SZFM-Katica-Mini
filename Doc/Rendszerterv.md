@@ -43,6 +43,8 @@ Határidő: 2022. 09. 26.
 
 ## 3. Üzleti folyamatok modellje
 
+![](uzletifolyamatokmodellje.png)
+
 ## 4. Követelmények
 
 ## 5. Funkcionális terv
