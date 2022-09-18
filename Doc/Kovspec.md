@@ -12,6 +12,8 @@
 
 ## 6. Követelménylista:
 
+0-9-ig számok használata.
+
 Különböző matematikai operátorok használata:
 
 Kötelező operátorok:
@@ -24,13 +26,15 @@ K03 Szorzás
 
 K04 Osztás
 
-Opcionális operátorok:
+További operátorok:
 
-K05 Négyzetre emelés
+K05 Tizedes pont
 
-K06 Gyökvonás
+K06 Karakter törlés
 
-K07 Zárójelek használata
+K07 Teljes törlés
+
+K08 Eredmény kiszámítása
 
 ## 7.Fogalomszótár:
 
