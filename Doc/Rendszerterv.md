@@ -122,20 +122,20 @@ Eredmény kiszámítása
 Az alkalmazás több platformra készül amin elérhető a java.
 
 Kliens által biztosított eszközök:
-    -Számítógép
+    - Számítógép
 
 Fejlesztői eszközök:
-    -Github
-    -Visual Studio Code
-    -Eclipse
-    -Intelij
-    -Notepad++
-    -Paint
+    - Github
+    - Visual Studio Code
+    - Eclipse
+    - Intelij
+    - Notepad++
+    - Paint
 
 Tesztelési környezet:
-    -Windows
-    -Linux
-    -MacOS
+    - Windows
+    - Linux
+    - MacOS
 
 ## 7. Architekturális terv
 
