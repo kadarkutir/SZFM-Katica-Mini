@@ -12,8 +12,11 @@ Cserébe könnyen használható mivel van interaktív felhasználói felülete.
 ## 3. A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása:
 
 -java
+
 -xml
+
 -css
+
 
 ## 4. Jelenlegi üzleti folyamatok modellje:
 
