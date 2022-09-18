@@ -162,6 +162,13 @@ A GUI részét egy FXML és egy CSS fájl alkotja.
 
 ## 9. Implementációs terv
 
+Az egész alkalmazás az MVC informatikai mintán alapul ami a Modell,View,Controller.
+A Modell összevan kötve a Controller, a Controller pedig a View-val így működik az alkalmazás háttere.
+
+A Modell és Controller Java nyelven van megírva és így működteti az alkalmazás.
+
+A View vagy GUI a felhasználók által látott felület FXML és CSS-ben írodott.
+
 ## 10. Tesztterv
 
 ## 11. Telepítési terv
