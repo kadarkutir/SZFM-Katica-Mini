@@ -20,6 +20,25 @@ Gyök keresés egyenlet rendszerben.
 
 ## 2. Projektterv
 
+Az MVC informatikai mintát hasznájuk az alkalmazás elkészítéséhez.
+Projekt szerepkörök és felelőségek:
+
+Modell:
+Kadarkuti Róbert
+
+Controller:
+Demeter Benjámin
+
+View(GUI):
+Tercza Dávid 
+Ütemterv:
+
+Fejlesztés: 2022. 09. 19-23.
+
+Tesztelés: 2022. 09. 24-26.
+
+Határidő: 2022. 09. 26.
+
 ## 3. Üzleti folyamatok modellje
 
 ## 4. Követelmények
