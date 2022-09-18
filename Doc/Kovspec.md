@@ -2,9 +2,18 @@
 
 ## 1. Jelenlegi helyzet leírása:
 
+Az oktatásban csak a Windows számológépet lehet használni ezért mi fejlesztünk egy egyszerübb számológépet.
+
 ## 2. Vágyálom rendszer leírása: 
 
+A projekt célja egy egyszerű letisztult java alkalmazás, amely nem platformfüggetlen mivel, hogy szüksége van egy java fordítóra.
+Cserébe könnyen használható mivel van interaktív felhasználói felülete. 
+
 ## 3. A rendszerre vonatkozó pályázat, törvények, rendeletek, szabványok és ajánlások felsorolása:
+
+-java
+-xml
+-css
 
 ## 4. Jelenlegi üzleti folyamatok modellje:
 
