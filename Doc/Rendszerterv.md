@@ -165,5 +165,6 @@ A GUI részét egy FXML és egy CSS fájl alkotja.
 ## 10. Tesztterv
 
 ## 11. Telepítési terv
+Az adott operációs rendszeren telepítve kell, hogy legyen egy Java fordító, ami képes fordítani a file-t.
 
 ## 12. Karbantartási terv
