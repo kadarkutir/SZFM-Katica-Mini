@@ -31,6 +31,7 @@ Demeter Benjámin
 
 View(GUI):
 Tercza Dávid 
+
 Ütemterv:
 
 Fejlesztés: 2022. 09. 19-23.
