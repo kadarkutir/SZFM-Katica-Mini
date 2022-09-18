@@ -12,6 +12,8 @@ Java alkalmazás létrehozása, amely könnyen átlátható és egyszerűen hasz
 
 ## 4. Követelménylista:
 
+0-9-ig számok használata, és ezekkel való számítás.
+
 Különböző matematikai operátorok használata:
 
 Kötelező operátorok:
@@ -32,15 +34,24 @@ K04 Osztás
 
 Két egészszámot elosztva és annak az eredménye.
 
-Opcionális operátorok:
+További operátorok:
 
-K05 Négyzetre emelés
+K05 Tizedes pont
 
-Egészszám négyzetének kiszámítása.
+Tizedes számokkal való számítás.
 
-K06 Gyökvonás
+K06 Karakter törlés
 
-Egészszám gyökének kiszámítása.
+Egy darab karakter törlése a számításból.
+
+K07 Teljes törlés
+
+Az egész számítás nullázása.
+
+K08 Eredmény kiszámítása
+
+Az adott eredmény kiszámítása.
+
 
 K07 Zárójelek használata
 
