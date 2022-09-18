@@ -78,6 +78,12 @@ Az adott eredmény kiszámítása.
 
 ## 5. Jelenlegi üzleti folyamatok:
 
+A mai világban rengeteg tudományos számológép programozható, vagy egyszerűen a dobozból kivéve már túl sokat tudnak egy átlagos iskolai felhasználásra.
+
+Ezeket az előnyöket kihasználva a diákok észrevehetetlenül csalnak a teszteken.
+
+A számológépek betiltása még sem megoldás, mivel néhány számítás feleslegesen sok időt igényel, amit a diákok tudásának számonkérésével lehetne tölteni. 
+
 ## 6. Igényelt üzleti folyamatok:
 
 ## 7. Használati esetek:
