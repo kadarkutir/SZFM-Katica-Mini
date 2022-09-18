@@ -88,6 +88,8 @@ A számológépek betiltása még sem megoldás, mivel néhány számítás fele
 
 ## 7. Használati esetek:
 
+Egyszerübb matematikai műveletek kiszámítása. 
+
 ## 8. Képernyő tervek:
 
 ![](kepernyoterv.png)
