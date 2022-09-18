@@ -119,6 +119,24 @@ Eredmény kiszámítása
 
 ## 6. Fizikai környezet
 
+Az alkalmazás több platformra készül amin elérhető a java.
+
+Kliens által biztosított eszközök:
+Számítógép
+
+Fejlesztői eszközök:
+Github
+Visual Studio Code
+Eclipse
+Intelij
+Notepad++
+Paint
+
+Tesztelési környezet:
+Windows
+Linux
+MacOS
+
 ## 7. Architekturális terv
 
 ## 8. Adatbázis terv
