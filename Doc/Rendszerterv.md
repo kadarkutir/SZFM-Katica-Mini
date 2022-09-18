@@ -171,6 +171,26 @@ A View vagy GUI a felhasználók által látott felület FXML és CSS-ben írodo
 
 ## 10. Tesztterv
 
+Unit teszt:
+A fejlesztési idő egyik fontosabb részét képzi a unit tesztek írása, mivel fontos, hogy a függvények megfelelően működjenek a pontos műveletek kiszámításához.
+
+Alfa teszt:
+A tesztet a fejlesztők végzik.
+
+A teszt elsődleges célja, hogy az eddig meglévő funkciók megfelelően működjenek az összes operációs rendszeren.
+A tesztek sikeresnek könyvelhetőek el, hogyha az összes operációs rendszeren megfelelően működött a program.
+
+Beta teszt:
+A tesztet az alkalmazottak végzik.
+
+Tesztelendő operációsrendszerek:
+-Windows
+
+-Linux
+
+-MacOS
+A tesztelés alatt a tesztelő felhasználók visszajelzéseket küldhetnek a fejlesztőknek, probléma/hiba felmerülése esetén. Ha hiba lép fel, a fejlesztők kijavítják a lehető leghamarabb. 
+
 ## 11. Telepítési terv
 Az adott operációs rendszeren telepítve kell, hogy legyen egy Java fordító, ami képes fordítani a file-t.
 
