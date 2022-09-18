@@ -89,6 +89,34 @@ Az adott eredmény kiszámítása.
 
 ## 5. Funkcionális terv
 
+FELHASZNÁLÓ:
+
+Különböző matematikai operátorok használata:
+
+Összeadás
+
+Kivonás
+
+Szorzás
+
+Osztás
+
+További operátorok használata:
+
+Gyökvonás
+
+Zárójelek használata
+
+Tizedes pont
+
+Karakter törlés
+
+Teljes törlés
+
+Az egész számítás nullázása.
+
+Eredmény kiszámítása
+
 ## 6. Fizikai környezet
 
 ## 7. Architekturális terv
