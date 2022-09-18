@@ -152,6 +152,12 @@ Tesztelési környezet:
 
 ## 7. Architekturális terv
 
+Az alkalmazást több Java fájl alkotja ezek felelnek a háttérben a számításokért.
+
+A GUI részét egy FXML és egy CSS fájl alkotja.
+
+![](architekturalisterv.png)
+
 ## 8. Adatbázis terv
 
 ## 9. Implementációs terv
