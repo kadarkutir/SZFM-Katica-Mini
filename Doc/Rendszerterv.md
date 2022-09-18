@@ -21,6 +21,7 @@ Gyök keresés egyenlet rendszerben.
 ## 2. Projektterv
 
 Az MVC informatikai mintát hasznájuk az alkalmazás elkészítéséhez.
+
 Projekt szerepkörök és felelőségek:
 
 Modell:
