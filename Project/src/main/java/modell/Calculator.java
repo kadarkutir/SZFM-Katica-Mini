@@ -79,4 +79,20 @@ public class Calculator {
             result += ".";
         }
     }
+
+    public void setResultAdd(){
+        if(getStringLastChar(result).equals("+")){
+            result += "";
+        } else if (getStringLastChar(result).equals("-")) {
+            result += "";
+        } else if (getStringLastChar(result).equals("*")) {
+            result += "";
+        } else if (getStringLastChar(result).equals("/")) {
+            result += "";
+        }else if (getStringLastChar(result).equals(".")) {
+            result += "";
+        } else {
+            result += "+";
+        }
+    }
 }
