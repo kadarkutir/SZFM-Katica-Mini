@@ -111,4 +111,22 @@ public class Calculator {
             result += "-";
         }
     }
+
+    public void setResultProd(){
+        if(getStringLastChar(result).equals("+")){
+            result += "";
+        } else if (getStringLastChar(result).equals("-")) {
+            result += "";
+        } else if (getStringLastChar(result).equals("*")) {
+            result += "";
+        } else if (getStringLastChar(result).equals("/")) {
+            result += "";
+        }else if (getStringLastChar(result).equals(" ")) {
+            result += "";
+        }else if (getStringLastChar(result).equals(".")) {
+            result += "";
+        } else {
+            result += "*";
+        }
+    }
 }
