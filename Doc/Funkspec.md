@@ -80,7 +80,7 @@ Különböző matematikai operátorok használata:
 
 	- K09 Zárójelek
 
-		- Zárójelek használata a számitásokban.
+		- Zárójelek használata a számításokban.
 
 	- K10 Négyzetre emelés
 		
