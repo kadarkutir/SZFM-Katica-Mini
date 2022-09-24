@@ -39,25 +39,33 @@ Tizedes pontos számokkal való számítás.
 
 Különböző matematikai operátorok használata:
 
-Kötelező operátorok:
+- Kötelező operátorok:
 
-K01 Összeadás
+	- K01 Összeadás
 
-K02 Kivonás
+	- K02 Kivonás
 
-K03 Szorzás
+	- K03 Szorzás
 
-K04 Osztás
+	- K04 Osztás
 
-További operátorok:
+- További operátorok:
 
-K05 Tizedes pont
+	- K05 Tizedes pont
 
-K06 Karakter törlés
+	- K06 Karakter törlés
 
-K07 Teljes törlés
+	- K07 Teljes törlés
 
-K08 Eredmény kiszámítása
+	- K08 Eredmény kiszámítása
+
+- Opcionális operátorok:
+
+	- K09 Zárójelek
+
+	- K10 Négyzetre emelés
+
+	- K11 Gyökvonás
 
 ## 7.Fogalomszótár:
 
