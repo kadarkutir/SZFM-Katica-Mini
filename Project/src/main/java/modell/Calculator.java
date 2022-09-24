@@ -182,4 +182,9 @@ public class Calculator {
         double newResult = exp.evaluate();
         return newResult;
     }
+
+    @Override
+    public String toString(){
+        return result;
+    }
 }
