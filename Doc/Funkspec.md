@@ -86,9 +86,9 @@ A számológépek betiltása még sem megoldás, mivel néhány számítás fele
 
 ## 6. Igényelt üzleti folyamatok:
 
-Az alkalmazás megkönnyíti a tanárok dolgát mivel nem kell azon aggódniuk hogy a diákok esetlegesen csalnak a teszteken más számológéppel.
+- Az alkalmazás megkönnyíti a tanárok dolgát mivel nem kell azon aggódniuk hogy a diákok esetlegesen csalnak a teszteken más számológéppel.
 
-Minden olyan számítógépen működik amin van java, mivel az alkalmazás alapja a java. 
+- Minden olyan számítógépen működik amin van java, mivel az alkalmazás alapja a java. 
 
 
 ## 7. Használati esetek:
