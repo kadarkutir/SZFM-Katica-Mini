@@ -6,4 +6,13 @@ import java.util.Optional;
 
 public class Calculator {
 
+    /**
+     * Base modell
+     */
+    private String result = " ";
+
+
+    public String getResult() {
+        return result;
+    }
 }
