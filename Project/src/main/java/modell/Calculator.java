@@ -157,6 +157,10 @@ public class Calculator {
         }
     }
 
+    public void clear(){
+        result = " ";
+    }
+
     private static String removeLastCharOptional(String s) {
         return Optional.ofNullable(s)
                 .filter(str -> str.length() != 0)
