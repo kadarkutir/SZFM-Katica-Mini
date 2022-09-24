@@ -157,6 +157,10 @@ public class Calculator {
         }
     }
 
+    public void setResultEqual(){
+        result = String.valueOf(getResultValue());
+    }
+
     public void clear(){
         result = " ";
     }
@@ -170,5 +174,12 @@ public class Calculator {
                 .filter(str -> str.length() != 0)
                 .map(str -> str.substring(0, str.length() - 1))
                 .orElse(s);
+    }
+
+    private double getResultValue(){
+        String expression = result.substring(1);
+        Expression exp = new ExpressionBuilder(expression).build();
+        double newResult = exp.evaluate();
+        return newResult;
     }
 }
