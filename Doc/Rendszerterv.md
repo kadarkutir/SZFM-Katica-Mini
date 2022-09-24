@@ -152,9 +152,11 @@ Tesztelési környezet:
 
 ## 7. Architekturális terv
 
-Az alkalmazást több Java fájl alkotja ezek felelnek a háttérben a számításokért.
+- Az alkalmazást több Java fájl alkotja ezek felelnek a háttérben a számításokért.
 
-A GUI részét egy FXML és egy CSS fájl alkotja.
+- A GUI részét egy FXML és egy CSS fájl alkotja.
+
+- Mivel a JavaFX-et használjuk a grafikus megjelenítéséhez ezért kell egy Controller class amivel elérjük a JavaFX-el a GUI-t.
 
 ![](architekturalisterv.png)
 
