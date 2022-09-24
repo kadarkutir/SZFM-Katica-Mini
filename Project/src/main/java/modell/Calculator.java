@@ -58,4 +58,25 @@ public class Calculator {
     public void setResultNine(){
         result += "9";
     }
+
+    /**
+     * Operators
+     */
+    public void setResultPoint(){
+        if(getStringLastChar(result).equals("+")){
+            result += "";
+        } else if (getStringLastChar(result).equals("-")) {
+            result += "";
+        } else if (getStringLastChar(result).equals("*")) {
+            result += "";
+        } else if (getStringLastChar(result).equals("/")) {
+            result += "";
+        } else if (getStringLastChar(result).equals(" ")) {
+            result += "";
+        } else if (getStringLastChar(result).equals(".")) {
+            result += "";
+        } else {
+            result += ".";
+        }
+    }
 }
