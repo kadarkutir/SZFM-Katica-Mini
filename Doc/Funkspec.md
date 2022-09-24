@@ -40,41 +40,55 @@ Java alkalmazás létrehozása, amely könnyen átlátható és egyszerűen hasz
 
 Különböző matematikai operátorok használata:
 
-Kötelező operátorok:
+- Kötelező operátorok:
 
-K01 Összeadás
+	- K01 Összeadás
 
-Két egészszámnak az összegének kiszámítása.
+		- Két egészszámnak az összegének kiszámítása.
 
-K02 Kivonás
+	- K02 Kivonás
 
-Két egészszámnak a különbségének kiszámítása.
+		- Két egészszámnak a különbségének kiszámítása.
 
-K03 Szorzás
+	- K03 Szorzás
 
-Két egészszámnak a szorzatának kiszámítása.
+		- Két egészszámnak a szorzatának kiszámítása.
 
-K04 Osztás
+	- K04 Osztás
 
-Két egészszámot elosztva és annak az eredménye.
+		- Két egészszámot elosztva és annak az eredménye.
 
-További operátorok:
+- További operátorok:
 
-K05 Tizedes pont
+	- K05 Tizedes pont
 
-Tizedes számokkal való számítás.
+		- Tizedes számokkal való számítás.
 
-K06 Karakter törlés
+	- K06 Karakter törlés
 
-Egy darab karakter törlése a számításból.
+		- Egy darab karakter törlése a számításból.
 
-K07 Teljes törlés
+	- K07 Teljes törlés
 
-Az egész számítás nullázása.
+		- Az egész számítás nullázása.
 
-K08 Eredmény kiszámítása
+	- K08 Eredmény kiszámítása
 
-Az adott eredmény kiszámítása.
+		- Az adott eredmény kiszámítása.
+
+- Opcionális operátorok:
+
+	- K09 Zárójelek
+
+		- Zárójelek használata a számitásokban.
+
+	- K10 Négyzetre emelés
+		
+		- Egy adott szám négyzetre emelése.
+
+	- K11 Gyökvonás
+
+		- Egy adott szám gyöke.
 
 ## 5. Jelenlegi üzleti folyamatok:
 
