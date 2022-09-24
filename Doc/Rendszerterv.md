@@ -212,4 +212,9 @@ A tesztelés alatt a tesztelő felhasználók visszajelzéseket küldhetnek a fe
 Az adott operációs rendszeren telepítve kell, hogy legyen egy Java fordító, ami képes fordítani a file-t.
 
 ## 11. Karbantartási terv
-Amíg nincs változás a matematika szabályain belül addig nincs szükség karbantartásra.
+
+- Amíg nincs változás a matematika szabályain belül addig nincs szükség karbantartásra.
+
+- Ha egy új számítási rendszer jelenne meg akkor szükséges lenne a számológép átírása.
+
+- Esetlegesen újabb funkció hozzáadása esetén szükséges lenne a karbantartásra.
