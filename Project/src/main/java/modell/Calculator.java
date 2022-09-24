@@ -161,6 +161,10 @@ public class Calculator {
         result = " ";
     }
 
+    private String getStringLastChar(String s){
+        return s.substring(s.length()-1);
+    }
+
     private static String removeLastCharOptional(String s) {
         return Optional.ofNullable(s)
                 .filter(str -> str.length() != 0)
