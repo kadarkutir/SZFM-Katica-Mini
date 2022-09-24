@@ -20,9 +20,9 @@ Cserébe könnyen használható mivel van interaktív felhasználói felülete.
 
 ## 4. Jelenlegi üzleti folyamatok modellje:
 
-Egyszerű számológép a 4 alap operátorral.
+- Egyszerű számológép a 4 alap operátorral.
 
-Egészszámok kiszámítása a 4 alap operátorral.
+- Egészszámok kiszámítása a 4 alap operátorral.
 
 
 ## 5. Igényelt üzleti folyamatok modellje:
