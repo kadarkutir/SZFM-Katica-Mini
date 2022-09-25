@@ -78,4 +78,9 @@ public class Controller {
         calc.clear();
         result.setText(calc.getResult());
     }
+
+    public void deleteAction(ActionEvent actionEvent){
+        calc.deleteChar();
+        result.setText(calc.getResult());
+    }
 }
