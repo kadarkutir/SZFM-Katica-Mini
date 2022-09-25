@@ -27,3 +27,4 @@
 | 25 | Osztás operátor után szorzás operátor | 2/* | D. Benjamin | HIBA |
 | 26 | Osztás operátor elött kivonás operátor | 2-/ | D. Benjamin | HIBA |
 | 27 | Osztás operátor elött szorzás operátor | 2*/ | D. Benjamin | HIBA |
+| 28 | Osztás operátor után tizedes pont operátor | 2/. | D. Benjamin | HIBA |
