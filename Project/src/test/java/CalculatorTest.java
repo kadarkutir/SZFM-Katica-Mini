@@ -28,4 +28,12 @@ public class CalculatorTest {
         calc.clear();
         assertEquals(" ",calc.getResult());
     }
+    @Test
+    void deleteCharTest(){
+        calc.setResultFive();
+        calc.setResultAdd();
+        calc.setResultNine();
+        calc.deleteChar();
+        assertEquals(" 5+",calc.getResult());
+    }
 }

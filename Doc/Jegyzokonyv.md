@@ -30,3 +30,15 @@
 | 28 | Osztás operátor után tizedes pont operátor | 2/. | D. Benjamin | HIBA |
 | 29 | unit test deleteCharTest | Test | T. David | OK |
 | 30 | Egyszerű számítás | 6+10=16 | T. David | OK |
+| 31 | Negatív és pozitív számítás | -1+8=7 | T. David | OK |
+| 32 | Negatív számmal való számítás | -1--11=10 | T. David | OK |
+| 33 | Negatív és negatív számítás | -2-6=-8 | T. David | OK |
+| 34 | Tizedes és tizedes szám számítás | 0.5*0.5=0.25 | T. David | OK |
+| 35 | Egész szám és tizedes számítás | 0.5+10=10.5 | T. David | OK |
+| 36 | Tizedes pont operátor után szorzás operátor | 14.* | T. David | HIBA |
+| 37 | Tizedes pont operátor után osztás operátor | 14./ | T. David | HIBA |
+| 38 | Tizedes pont operátor után tizedes pont | 14.. | T. David | HIBA |
+| 39 | Tizedes pont operátor elött osztás operátor | 14/. | T. David | HIBA |
+| 40 | Tizedes pont operátor elött összeadás operátor | 14+. | T. David | HIBA |
+| 41 | Tizedes pont operátor elött kivonás operátor | 14-. | T. David | HIBA |
+| 42 | Tizedes pont operátor elött tizedes pont operátor | 14.. | T. David | HIBA |
