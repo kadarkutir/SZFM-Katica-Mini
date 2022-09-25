@@ -17,3 +17,4 @@
 | 15 | unit test clearTest | Test | D. Benjamin | OK |
 | 16 | Egyszerű számítás | 3+2=5| D. Benjamin | OK |
 | 17 | Negatív és pozitív számítás | -1+6=5 | D. Benjamin| OK |
+| 18 | Negatív számmal való számítás |-7--6=-1| D. Benjamin | OK |
