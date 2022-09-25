@@ -68,4 +68,9 @@ public class Controller {
         calc.setResultPoint();
         result.setText(calc.getResult());
     }
+
+    public void equalsAction(ActionEvent actionEvent){
+        calc.setResultEqual();
+        result.setText(calc.getResult());
+    }
 }
