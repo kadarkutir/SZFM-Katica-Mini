@@ -98,4 +98,9 @@ public class Controller {
         calc.setResultDiv();
         result.setText(calc.getResult());
     }
+    
+    public void prodAction(ActionEvent actionEvent){
+        calc.setResultProd();
+        result.setText(calc.getResult());
+    }
 }
