@@ -73,4 +73,9 @@ public class Controller {
         calc.setResultEqual();
         result.setText(calc.getResult());
     }
+
+    public void clearAction(ActionEvent actionEvent){
+        calc.clear();
+        result.setText(calc.getResult());
+    }
 }
