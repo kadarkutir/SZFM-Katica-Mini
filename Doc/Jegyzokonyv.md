@@ -24,3 +24,4 @@
 | 22 | Osztás operátor elött összeadás operátor | 2+/ | D. Benjamin | HIBA |
 | 23 | Osztás operátor elött tizedes pont operátor | 2./ | D. Benjamin | HIBA |
 | 24 | Osztás operátor elött osztás operátor | 2// | D. Benjamin | HIBA |
+| 25 | Osztás operátor után szorzás operátor | 2/* | D. Benjamin | HIBA |
