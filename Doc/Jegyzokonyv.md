@@ -1,2 +1,2 @@
-| Test | Tester | Result |
-| ---- | ------ | ------ |
+| Sorszám | Lerítás | Érték | Tesztelő | Eredmény |
+| ------- | ------- | ----- | -------- | -------- |
