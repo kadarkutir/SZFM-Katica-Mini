@@ -41,3 +41,4 @@
 | 39 | Tizedes pont operátor elött osztás operátor | 14/. | T. David | HIBA |
 | 40 | Tizedes pont operátor elött összeadás operátor | 14+. | T. David | HIBA |
 | 41 | Tizedes pont operátor elött kivonás operátor | 14-. | T. David | HIBA |
+| 42 | Tizedes pont operátor elött tizedes pont operátor | 14.. | T. David | HIBA |
