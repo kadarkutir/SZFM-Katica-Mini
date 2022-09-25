@@ -14,4 +14,5 @@
 | 12 | Szorzás operátor elött összeadás operátor | 9+* | K. Robert | HIBA |
 | 13 | Szorzás operátor elött kivonás operátor | 9-* | K. Robert | HIBA |
 | 14 | Szorzás operátor elött tizedes pont operátor | 9.* | K. Robert | HIBA |
-| 15 | unit test clearTest | Test | D.Benjámin | OK |
+| 15 | unit test clearTest | Test | D. Benjamin | OK |
+| 16 | Egyszerű számítás | 3+2=5| D. Benjamin | OK |
