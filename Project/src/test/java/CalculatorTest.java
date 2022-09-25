@@ -19,4 +19,13 @@ public class CalculatorTest {
         calc.setResultEqual();
         assertEquals("14.0",calc.getResult());
     }
+
+    @Test
+    void clearTest(){
+        calc.setResultFive();
+        calc.setResultAdd();
+        calc.setResultNine();
+        calc.clear();
+        assertEquals(" ",calc.getResult());
+    }
 }
