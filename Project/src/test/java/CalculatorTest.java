@@ -10,4 +10,13 @@ public class CalculatorTest {
 
     @BeforeEach
     private void setUp() { calc = new Calculator(); }
+
+    @Test
+    void setResultEqualTest(){
+        calc.setResultFive();
+        calc.setResultAdd();
+        calc.setResultNine();
+        calc.setResultEqual();
+        assertEquals("14.0",calc.getResult());
+    }
 }
