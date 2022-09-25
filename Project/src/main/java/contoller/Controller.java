@@ -88,4 +88,9 @@ public class Controller {
         calc.setResultAdd();
         result.setText(calc.getResult());
     }
+
+    public void diffAction(ActionEvent actionEvent){
+        calc.setResultDiff();
+        result.setText(calc.getResult());
+    }
 }
