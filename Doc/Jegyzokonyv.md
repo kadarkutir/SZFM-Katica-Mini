@@ -37,3 +37,4 @@
 | 35 | Egész szám és tizedes számítás | 0.5+10=10.5 | T. David | OK |
 | 36 | Tizedes pont operátor után szorzás operátor | 14.* | T. David | HIBA |
 | 37 | Tizedes pont operátor után osztás operátor | 14./ | T. David | HIBA |
+| 38 | Tizedes pont operátor után tizedes pont | 14.. | T. David | HIBA |
