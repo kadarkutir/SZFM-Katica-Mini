@@ -27,5 +27,18 @@
             <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
         </rowConstraints>
          <children>
+<Button alignment="CENTER" mnemonicParsing="false" prefHeight="50.0" prefWidth="52.0" onAction="#sevenAction" text="7">
+               <GridPane.margin>
+                  <Insets bottom="5.0" left="25.0" right="10.0" top="5.0" />
+               </GridPane.margin>
+               <font>
+                  <Font name="System Bold" size="20.0" />
+               </font>
+            </Button>
+</children>
+         <VBox.margin>
+            <Insets top="30.0" />
+         </VBox.margin>
+      </GridPane>
    </children>
 </VBox>
