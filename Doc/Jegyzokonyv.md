@@ -21,3 +21,4 @@
 | 19 | Negatív és negatív számítás | -8-1=-9| D. Benjamin | OK |
 | 20 | Tizedes és tizedes szám számítás | 0.4+7=7.4| D. Benjamin | OK |
 | 21 | Egész szám és tizedes számítás | 0.11*0.25=0.0275| D. Benjamin | OK |
+| 22 | Osztás operátor elött összeadás operátor | 2+/ | D. Benjamin | HIBA |
