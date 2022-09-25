@@ -19,3 +19,4 @@
 | 17 | Negatív és pozitív számítás | -1+6=5 | D. Benjamin| OK |
 | 18 | Negatív számmal való számítás |-7--6=-1| D. Benjamin | OK |
 | 19 | Negatív és negatív számítás | -8-1=-9| D. Benjamin | OK |
+| 20 | Tizedes és tizedes szám számítás | 0.4+7=7.4| D. Benjamin | OK |
