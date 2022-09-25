@@ -12,3 +12,4 @@
 | 10 | Szorzás operátor után tizedes pont | 9*. | K. Robert | HIBA |
 | 11 | Szorzás operátor elött osztás operátor | 9/* | K. Robert | HIBA |
 | 12 | Szorzás operátor elött összeadás operátor | 9+* | K. Robert | HIBA |
+| 13 | Szorzás operátor elött kivonás operátor | 9-* | K. Robert | HIBA |
