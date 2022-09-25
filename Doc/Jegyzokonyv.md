@@ -28,3 +28,4 @@
 | 26 | Osztás operátor elött kivonás operátor | 2-/ | D. Benjamin | HIBA |
 | 27 | Osztás operátor elött szorzás operátor | 2*/ | D. Benjamin | HIBA |
 | 28 | Osztás operátor után tizedes pont operátor | 2/. | D. Benjamin | HIBA |
+| 29 | unit test deleteCharTest | Test | T. David | OK |
