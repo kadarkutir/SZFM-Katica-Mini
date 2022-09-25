@@ -34,3 +34,4 @@
 | 32 | Negatív számmal való számítás | -1--11=10 | T. David | OK |
 | 33 | Negatív és negatív számítás | -2-6=-8 | T. David | OK |
 | 34 | Tizedes és tizedes szám számítás | 0.5*0.5=0.25 | T. David | OK |
+| 35 | Egész szám és tizedes számítás | 0.5+10=10.5 | T. David | OK |
