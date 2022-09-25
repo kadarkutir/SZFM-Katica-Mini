@@ -9,3 +9,4 @@
 | 7 | Egész szám és tizedes számítás | 0.5+3=3.5 | K. Robert | OK |
 | 8 | Szorzás operátor után szorzás operátor | 9** | K. Robert | HIBA |
 | 9 | Szorzás operátor után osztás operátor | 9*/ | K. Robert | HIBA |
+| 10 | Szorzás operátor után tizedes pont | 9*. | K. Robert | HIBA |
