@@ -7,3 +7,4 @@
 | 5 | Negatív és negatív számítás | -1-6=-7 | K. Robert | OK |
 | 6 | Tizedes és tizedes szám számítás | 0.75*0.63=0.4725 | K. Robert | OK |
 | 7 | Egész szám és tizedes számítás | 0.5+3=3.5 | K. Robert | OK |
+| 8 | Szorzás operátor után szorzás operátor | 9** | K. Robert | OK |
