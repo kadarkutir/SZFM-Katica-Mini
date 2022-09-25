@@ -63,4 +63,9 @@ public class Controller {
         calc.setResultNine();
         result.setText(calc.getResult());
     }
+
+    public void pointAction(ActionEvent actionEvent){
+        calc.setResultPoint();
+        result.setText(calc.getResult());
+    }
 }
