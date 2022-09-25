@@ -38,3 +38,4 @@
 | 36 | Tizedes pont operátor után szorzás operátor | 14.* | T. David | HIBA |
 | 37 | Tizedes pont operátor után osztás operátor | 14./ | T. David | HIBA |
 | 38 | Tizedes pont operátor után tizedes pont | 14.. | T. David | HIBA |
+| 39 | Tizedes pont operátor elött osztás operátor | 14/. | T. David | HIBA |
