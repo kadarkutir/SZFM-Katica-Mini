@@ -93,4 +93,9 @@ public class Controller {
         calc.setResultDiff();
         result.setText(calc.getResult());
     }
+
+    public void divAction(ActionEvent actionEvent){
+        calc.setResultDiv();
+        result.setText(calc.getResult());
+    }
 }
