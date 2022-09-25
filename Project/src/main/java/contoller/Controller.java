@@ -83,4 +83,24 @@ public class Controller {
         calc.deleteChar();
         result.setText(calc.getResult());
     }
+
+    public void addAction(ActionEvent actionEvent){
+        calc.setResultAdd();
+        result.setText(calc.getResult());
+    }
+
+    public void diffAction(ActionEvent actionEvent){
+        calc.setResultDiff();
+        result.setText(calc.getResult());
+    }
+
+    public void divAction(ActionEvent actionEvent){
+        calc.setResultDiv();
+        result.setText(calc.getResult());
+    }
+    
+    public void prodAction(ActionEvent actionEvent){
+        calc.setResultProd();
+        result.setText(calc.getResult());
+    }
 }
